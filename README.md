@@ -6,7 +6,7 @@ This is a simple C++ based reverse shell give us a windows  cmd shell over TCP .
 ## installation
 
     $ apt install mingw-w64
-    $ git clone https://github.com/dev-frog/C-Reverse-Shell.git
+    $ https://github.com/Hokori-ykm/rc.git
     $ cd C-Reverse-Shell
   
 
